@@ -1,0 +1,42 @@
+texto conocenos:
+Somos una empresa constructora de sólida trayectoria y experiencia, con un equipo profesional plenamente comprometido con el cumplimiento y capaz de brindar múltiples soluciones en forma rápida, creativa y eficaz. Nuestro esfuerzo se refleja en obras, tanto privadas como públicas, que mejoran la calidad de vida de las personas y agregan valor a nuestros clientes.
+Nuestros valores:
+• Cumplimiento
+• Eficiencia
+• Trabajo en equipo
+• Responsabilidad social
+• Profesionalismo
+• Sustentabilidad
+• Desarrollo
+
+
+----------------------------------------------------------------------------------------------------------------------
+.---------------------------------------------------------------------------------------------------------------------
+Tipologias: Podras seleccionar la tipologia que mas se adapte a tu proyecto de vivienda
+Americana:300 mts2
+Chalet: 200 mts2
+Premiun: 350 mts2
+wall: 150 mts2
+house: 120 mts2
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Experiencias
+Desarrollos y construcción de Nuevos Emprendimientos
+Cuando hablamos de vasta experiencia en desarrollos y construcción, no podemos dejar de mencionar nuestros más de 50 proyectos de edificios construidos, muchos de los cuales ya se encuentran entregados, otros en construcción y el resto en proyectos factibles próximos a realizarse. Nuestra área de influencia es la de la Provincia de Buenos Aires, más precisamente en la zona de San Martín, Villa Ballester, Caseros, Chilavert, San Andrés y Luján. También hemos incursionado en CABA, Ciudadela, Mar del Plata, Pinamar y en Santa Catarina, Brasil.
+Nuestro equipo aporta en cada proyecto su conocimiento técnico y experiencia, para ofrecerle  al cliente un trabajo diferencial y eficiente. Pec busca cumplir con sus trabajos garantizando una gestión segura, confiable y que cumpla con los niveles más altos de calidad.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Contacto:Complete el siguiente formulario para ponerse en contacto con nosotros:
+
+
+<h3>Grid column start/end - Grid row start/end</h3>
+<p>grid-column-start | grid-column-end | grid-row-start | grid-row-end | grid-column | grid-row</p>
+	
+	<div class="bg-dark grid column-row-start-end">
+			<div class="bg-blue column-row-start-end-item">item a</div>
+			<div class="bg-green">item b</div>
+			<div class="bg-grey ">item c</div>
+			<div class="bg-yellow">item d</div>
+			<div class="bg-red">item e</div>
+			<div class="bg-green">item f</div>
+	</div>
+
+
