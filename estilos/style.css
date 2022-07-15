@@ -6,6 +6,9 @@ body {
   line-height: 28px;
   font-weight: 300;
 }
+#i404 {
+  width: 100%;
+}
 
 * {
   box-sizing: border-box;
